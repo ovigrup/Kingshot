@@ -1,0 +1,1 @@
+"# Kingshot"  initgit add .git commit -m "chore: init Kingshot app"git branch -M maingit remote add origin https://github.com/ovigrup/Kingshot.gitgit push -u origin main
